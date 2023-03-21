@@ -427,7 +427,7 @@ int main() {
 
     // Image
 	auto aspect_ratio = 16.0 / 9.0;
-	int img_width = 400;  // 400
+	int img_width = 50;  // 400
 	int img_height = img_width / aspect_ratio;
     int samples_per_pixel = 1;  // 100  
 	const int max_depth = 50;  // 50
